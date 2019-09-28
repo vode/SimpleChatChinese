@@ -1,0 +1,4 @@
+pyonmttok>=1.10.1,<2
+tensorflow-serving-api==1.11.0
+tensorflow>=1.4,<2
+opennmt-tf

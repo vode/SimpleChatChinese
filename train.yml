@@ -1,0 +1,7 @@
+model_dir: model/
+
+data:
+  train_features_file: question.txt
+  train_labels_file: target.txt
+  source_words_vocabulary: src-vocab.txt
+  target_words_vocabulary: tgt-vocab.txt
