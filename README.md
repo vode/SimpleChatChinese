@@ -6,12 +6,12 @@
 pip3 install -r requirements.txt
 ```
 
-##数据
+## 数据
 数据来源于 [开源项目](https://github.com/codemayq/chinese_chatbot_corpus) 包含豆瓣，小黄鸡，微博，贴吧，字幕等问答对
 
 本次使用了青云，豆瓣，小黄鸡的数据，可根据线上效果酌情增加或删除数据，当然数据对于最后对话系统的表现至关重要，远超于模型
 
-###生成训练数据
+### 生成训练数据
 
 ```
 unzip clean_chat_corpus.zip
